@@ -113,3 +113,123 @@ sid:
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Ocean_Loader_1.sid&subtune=1
+  - title: Ocean Loader 2
+    composer: Martin Galway
+    year: 1985
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Ocean_Loader_2.sid&subtune=1
+  - title: Yie Ar Kung Fu
+    composer: Martin Galway
+    year: 1985
+    subtunes:
+      - track: 19
+        title: Magnetic Fields, part 4
+        artist: Jean-Michel Jarre
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Yie_Ar_Kung_Fu.sid&subtune=19
+  - title: Rambo First Blood Part II
+    composer: Martin Galway
+    year: 1985
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Rambo_First_Blood_Part_II.sid&subtune=1
+  - title: Super Huey
+    composer: Paul Norman
+    year: 1985
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/N/Norman_Paul/Super_Huey.sid&subtune=1
+  - title: Master of the Lamps
+    composer: Russell Lieblich
+    year: 1985
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Lieblich_Russell/Master_of_the_Lamps.sid&subtune=1
+      - track: 2
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Lieblich_Russell/Master_of_the_Lamps.sid&subtune=2
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Lieblich_Russell/Master_of_the_Lamps.sid&subtune=3
+      - track: 6
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Lieblich_Russell/Master_of_the_Lamps.sid&subtune=6
+  - title: Commando
+    composer: Rob Hubbard
+    year: 1985
+    subtunes:
+      - track: 1
+        title: BGM1
+        artist: Tamayo Kawamoto
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Commando.sid&subtune=1
+      - track: 2
+        title: Base
+        artist: Tamayo Kawamoto
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Commando.sid&subtune=2
+  - title: The Last V8
+    year: 1985
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Last_V8.sid&subtune=1
+  - title: Elite
+    composer: David Dunn
+    year: 1985
+    subtunes:
+      - track: 2
+        title: Blue Danube  
+        artist: Johann Strauss
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_David/Elite.sid&subtune=2
+  - title: Bounces
+    composer: Fred Gray
+    year: 1986
+    subtunes:
+      - track: 4
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Fred/Bounces.sid&subtune=4
+  - title: Miami Vice
+    composer: Martin Galway
+    year: 1986
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Miami_Vice.sid&subtune=1
+  - title: Max Headroom
+    composer: David Whittaker
+    year: 1986
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/W/Whittaker_David/Max_Headroom.sid&subtune=1
+      - track: 2
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/W/Whittaker_David/Max_Headroom.sid&subtune=2
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/W/Whittaker_David/Max_Headroom.sid&subtune=3
+      - track: 4
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/W/Whittaker_David/Max_Headroom.sid&subtune=4
+  - title: Ark Pandora
+    composer: Ben Daglish
+    year: 1986
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Ark_Pandora.sid&subtune=1
+      - track: 2
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Ark_Pandora.sid&subtune=2
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Ark_Pandora.sid&subtune=3
+  - title: Biggles
+    composer: Ben Daglish
+    year: 1986
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Biggles.sid&subtune=1
+      - track: 2
+        title: Do you want to be a hero?
+        artist: Stanislas Syrewicz
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Biggles.sid&subtune=2
+  - title: Bombo
+    composer: Ben Daglish
+    year: 1986
+    subtunes:
+        - track: 1
+          title: City
+          deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Bombo.sid&subtune=1
+  - title: Bulldog
+    composer: Ben Daglish
+    year: 1986
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Bulldog.sid&subtune=1
