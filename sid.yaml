@@ -24,48 +24,63 @@ sid:
     year: 1984
     subtunes:
       - track: 1
-        title: Stationary Ark
-        artist: Johns Mills-Cockell
+        original:
+          title: Stationary Ark
+          artist: Johns Mills-Cockell
+          media:
+            - youtube:
+              - https://www.youtube.com/watch?v=ryAlqBfA41o
+              - https://www.youtube.com/watch?v=zVONJYw9gvU
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=1
+        youtube: https://www.youtube.com/watch?v=_ZKJBxKqxbg
       - track: 2
-        title: Saturdays in Silesia
-        artist: Rational Youth
+        original:
+          title: Saturdays in Silesia
+          artist: Rational Youth
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=2
       - track: 3
-        title: Spiral
-        artist: Vangelis
+        original:
+          title: Spiral
+          artist: Vangelis
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=3
       - track: 4
-        title: Tubullar Bells, Part 1
-        artist: Mike Oldfield
+        original:
+          title: Tubullar Bells, Part 1
+          artist: Mike Oldfield
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=4
       - track: 5
-        title: Magic Shadows, closing theme
-        artist: Harry Forbes
+        original:
+          title: Magic Shadows, closing theme
+          artist: Harry Forbes
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=5
       - track: 6
-        title: Funeral Music for Queen Mary
-        artist: Henry Purcell
+        original:
+          title: Funeral Music for Queen Mary
+          artist: Henry Purcell
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=6
       - track: 7
-        title: Oxygene 2
-        artist: Jean-Michel Jarre
+        original:
+          title: Oxygene 2
+          artist: Jean-Michel Jarre
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=7
       - track: 8
-        title: Canon in D major
-        artist: Johann Pachelbel
+        original:
+          title: Canon in D major
+          artist: Johann Pachelbel
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=8
       - track: 9
-        title: Enolay Gay
-        artist: George Andrew McCluskey
+        original:
+          title: Enolay Gay
+          artist: George Andrew McCluskey
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=9
   - title: L.O.C.O.
     composer: Ben Daglish
     year: 1984
     subtunes:
       - track: 1
-        title: Equinoxe Part 5
-        artist: Jean-Michel Jarre
+        original:
+          title: Equinoxe Part 5
+          artist: Jean-Michel Jarre
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/L_O_C_O.sid&subtune=1
   - title: Boulder Dash
     composer: Peter Liepa
@@ -84,7 +99,8 @@ sid:
     year: 1985
     subtunes:
       - track: 1
-        artist: Frankie Goes to Hollywood
+        original:
+          artist: Frankie Goes to Hollywood
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Fred/Frankie_Goes_to_Hollywood.sid&subtune=1
   - title: ShadowFire
     composer: Fred Gray
@@ -99,7 +115,8 @@ sid:
     year: 1985
     subtunes:
       - track: 1
-        artist: Ford Kinder & Anne Bryant
+        original:
+          artist: Ford Kinder & Anne Bryant
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Fred/Transformers.sid&subtune=1
   - title: Final Synth Sample 1
     composer: Rob Hubbard
@@ -124,8 +141,9 @@ sid:
     year: 1985
     subtunes:
       - track: 19
-        title: Magnetic Fields, part 4
-        artist: Jean-Michel Jarre
+        original:
+          title: Magnetic Fields, part 4
+          artist: Jean-Michel Jarre
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Yie_Ar_Kung_Fu.sid&subtune=19
   - title: Rambo First Blood Part II
     composer: Martin Galway
@@ -156,12 +174,14 @@ sid:
     year: 1985
     subtunes:
       - track: 1
-        title: BGM1
-        artist: Tamayo Kawamoto
+        original:
+          title: BGM1
+          artist: Tamayo Kawamoto
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Commando.sid&subtune=1
       - track: 2
-        title: Base
-        artist: Tamayo Kawamoto
+        original:
+          title: Base
+          artist: Tamayo Kawamoto
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Commando.sid&subtune=2
   - title: The Last V8
     year: 1985
@@ -173,8 +193,9 @@ sid:
     year: 1985
     subtunes:
       - track: 2
-        title: Blue Danube  
-        artist: Johann Strauss
+        original:
+          title: Blue Danube  
+          artist: Johann Strauss
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_David/Elite.sid&subtune=2
   - title: Bounces
     composer: Fred Gray
@@ -217,19 +238,807 @@ sid:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Biggles.sid&subtune=1
       - track: 2
-        title: Do you want to be a hero?
-        artist: Stanislas Syrewicz
+        original:
+          title: Do you want to be a hero?
+          artist: Stanislas Syrewicz
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Biggles.sid&subtune=2
   - title: Bombo
     composer: Ben Daglish
     year: 1986
     subtunes:
-        - track: 1
-          title: City
-          deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Bombo.sid&subtune=1
+      - track: 1
+        title: City
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Bombo.sid&subtune=1
   - title: Bulldog
     composer: Ben Daglish
     year: 1986
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Bulldog.sid&subtune=1
+  - title: Cobra
+    composer: Ben Daglish
+    year: 1986
+    subtunes:
+      - track: 1
+        original:
+          title: Skyline
+          artist: Sylvester Levay
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Cobra.sid&subtune=1
+  - title: Future Knight
+    composer: Ben Daglish
+    year: 1986
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Future_Knight.sid&subtune=1
+  - title: Trap
+    composer: Ben Daglish
+    year: 1986
+    subtunes:
+      - track: 1
+        original:
+          title: Eve of the War
+          artist: Jeff Wayne
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Trap.sid&subtune=1
+  - title: Lightforce
+    composer: Rob Hubbard
+    year: 1986
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Lightforce.sid&subtune=1
+  - title: Zoolook
+    composer: Rob Hubbard
+    year: 1986
+    subtunes:
+      - track: 1
+        original:
+          title: Zoolook
+          artist: Jean-Michel Jarre
+        deepsid: http://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Zoolook.sid&subtune=1
+  - title: Driller
+    composer: Matt Gray
+    year: 1987
+    subtunes:
+      - track: 1
+        original:
+          title: Halloween
+          artist: John Carpenter
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Driller.sid&subtune=1
+  - title: Arkanoid
+    composer: Martin Galway
+    year: 1987
+    subtunes:
+      - track: 1
+        original:
+          title: Cobra
+          artist: Martin Galway
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Arkanoid.sid&subtune=1
+  - title: Slap Flight
+    composer: Martin Galway
+    year: 1987
+    subtunes:
+      - track: 5
+        original:
+          title: Area 31-40
+          artist: Masahiro Yuge
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Slap_Fight.sid&subtune=5
+  - title: Barbarian
+    composer: Richard Joseph
+    year: 1987
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/J/Joseph_Richard/Barbarian.sid&subtune=1
+      - track: 2
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/J/Joseph_Richard/Barbarian.sid&subtune=2
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/J/Joseph_Richard/Barbarian.sid&subtune=3
+  - title: Outrun
+    composer: Jason C. Brooke
+    year: 1987
+    subtunes:
+      - track: 1
+        original:
+          title: Magical Sound Shower
+          artist: Hiroshi Miyauchi
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/B/Brooke_Jason/Out_Run.sid&subtune=1
+      - track: 2
+        original:
+          title: Splash Wave
+          artist: Hiroshy Miyauchi
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/B/Brooke_Jason/Out_Run.sid&subtune=2
+  - title: Ikari Union
+    composer: Jeroen Tel
+    year: 1987
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/Ikari_Union.sid&subtune=1
+  - title: The Great Giana Sisters
+    composer: Chris Hulsbeck
+    year: 1987
+    subtunes:
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/Great_Giana_Sisters.sid&subtune=3
+  - title: The Last Ninja
+    composer: Ben Daglish
+    year: 1987
+    subtunes:
+      - track: 6
+        title: The Wastelands
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Last_Ninja.sid&subtune=6
+      - track: 7
+        title: The Wilderness
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Last_Ninja.sid&subtune=7
+  - title: Challenge of the Gobots
+    composer: Ben Daglish
+    year: 1987
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Challenge_of_the_Gobots_on_the_Moebius_Strip.sid&subtune=1
+  - title: Krakout
+    composer: Ben Daglish
+    year: 1987
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/Krakout.sid&subtune=1
+  - title: Star Paws
+    composer: Rob Hubbard
+    year: 1987
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Star_Paws.sid&subtune=1
+  - title: ACE II
+    composer: Rob Hubbard
+    year: 1987
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/ACE_II.sid&subtune=1
+  - title: Delta
+    composer: Rob Hubbard
+    year: 1987
+    subtunes:
+      - track: 1
+        original:
+          title: On the Run
+          artist: Pink Floyd
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Delta.sid&subtune=1
+      - track: 12
+        original:
+          title: Koyaanisqatsi
+          artist: Philip Glass
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/Delta.sid&subtune=12
+  - title: IK+
+    composer: Rob Hubbard
+    year: 1987
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/IK_plus.sid&subtune=1
+  - title: Test Drive
+    composer: Patrick Payne
+    year: 1987
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/GAMES/S-Z/Test_Drive.sid&subtune=1
+      - track: 2
+        deepsid: https://deepsid.chordian.net/?file=/GAMES/S-Z/Test_Drive.sid&subtune=2
+  - title: Ocean Loader 3
+    composer: Peter Clarke
+    year: 1987
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/C/Clarke_Peter/Ocean_Loader_3.sid&subtune=1
+  - title: Dark Side
+    composer: Wally Beben
+    year: 1988
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/B/Beben_Wally/Dark_Side.sid&subtune=1
+  - title: Last Ninja 2
+    composer: Matt Gray
+    year: 1988
+    subtunes:
+      - track: 1
+        title: Central Park (loader)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=1
+      - track: 2
+        title: Central Park (in-game)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=2
+      - track: 3
+        title: The Street (loader)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=3
+      - track: 4
+        title: The Street (in-game)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=4
+      - track: 5
+        title: The Sewers (loader)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=5
+      - track: 6
+        title: The Sewers (in-game)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=6
+      - track: 7
+        title: The Basement (loader)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=7
+      - track: 8
+        title: The Basement (in-game)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=8
+      - track: 9
+        title: The Office (loader)
+        original:
+          title: Beat Dis
+          artist: Bomb the Bass
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=9
+      - track: 10
+        title: The Office (in-game)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=10
+        original:
+          title: Midnight in tula
+          artist: Tangerine Dream
+          year: 1982
+        remixes:
+          - title: Midnight in Tula
+            composer: Tamas Kalman
+            year: 2014
+            media:
+              - soundcloud: https://soundcloud.com/dh2k/midnight-in-tula
+      - track: 11
+        title: The Mansion (loader)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=11
+      - track: 12
+        title: The Mansion (in-game)
+        original:
+          title: Alchemy of the Heart
+          artist: Tangerine Dream
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=12
+      - track: 13
+        title: The Final Battle (loader)
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Last_Ninja_2.sid&subtune=13
+  - title: Rastan
+    composer: Martin Galway
+    year: 1988
+    subtunes:
+      - track: 2
+        original:
+          title: Aggressive World
+          artist: Masahiko Takaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Rastan.sid&subtune=2
+      - track: 3
+        original:
+          title: Re-In_Carnation
+          artist: Masahiko Takaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Rastan.sid&subtune=3
+  - title: IO
+    composer: David Whittaker
+    year: 1988
+    subtunes:
+      - track: 2
+        deepsid: http://deepsid.chordian.net/?file=/MUSICIANS/W/Whittaker_David/IO.sid&subtune=2
+  - title: Cybernoid II
+    composer: Jeroen Tel
+    year: 1988
+    subtunes:
+      - track: 1
+        title: title tune
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/Cybernoid_II.sid&subtune=1
+  - title: Hawkeye
+    composer: Jeroen Tel
+    year: 1988
+    subtunes:
+      - track: 1
+        title: title music
+        deepsid: http://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/Hawkeye.sid&subtune=1
+  - title: S-Express
+    composer: Jeroen Tel
+    year: 1988
+    subtunes:
+      - track: 1
+        original:
+          title: Theme from S-Express
+          artist: S'Express
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/S-Express.sid&subtune=1
+  - title: Robocop
+    composer: Jonathan Dunn
+    year: 1988
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/RoboCop.sid&subtune=1
+  - title: Platoon
+    composer: Jonathan Dunn
+    year: 1988
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Platoon.sid&subtune=1
+      - track: 2
+        title: Sigh of the Eye
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Platoon.sid&subtune=2
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Platoon.sid&subtune=3
+      - track: 4
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Platoon.sid&subtune=4
+      - track: 5
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Platoon.sid&subtune=5
+      - track: 6
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Platoon.sid&subtune=6
+      - track: 7
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Platoon.sid&subtune=7
+      - track: 8
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Platoon.sid&subtune=8
+      - track: 9
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Platoon.sid&subtune=9
+  - title: Robocop
+    composer: Klaus Grongaard (Link)
+    year: 1988
+    subtunes:
+      - track: 1
+        original:
+          title: Robocop (Main Theme)
+          artist: Basil Poledouris
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Link/Robocop.sid&subtune=1
+  - title: R-Type
+    composer: [Chris Hulsbeck, Ramiro Vaca]
+    year: 1988
+    subtunes:
+      - track: 1
+        composer: Chris Hulsbeck
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=1
+      - track: 2
+        composer: Chris Hulsbeck
+        original:
+          title: Scoring
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=2
+      - track: 3
+        composer: Chris Hulsbeck
+        original:
+          title: Like a Hero
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=3
+      - track: 4
+        composer: Ramiro Vaca
+        original:
+          title: Battle Theme
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=4
+      - track: 5
+        composer: Ramiro Vaca
+        original:
+          title: Monster Beat
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=5
+      - track: 6
+        composer: Ramiro Vaca 
+        original:
+          title: Battle Pressure
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=6
+      - track: 7
+        composer: Ramiro Vaca
+        original:
+          title: Butsu Butsu
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=7
+      - track: 8
+        composer: Ramiro Vaca
+        original:
+          title: A Monster Lurking in the Cave      
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=8
+      - track: 9
+        composer: Chris Hulsbeck
+        original:
+          title: Scrambled Crossroad
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=9
+      - track: 10
+        composer: Ramiro Vaca  
+        original:
+          title: Ogorerumono wa Hisasikarasu
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=10
+      - track: 11
+        composer: Chris Hulsbeck  
+        original:
+          title: Womb
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=11
+      - track: 12
+        composer: Ramiro Vaca  
+        original:
+          title: Boss Theme
+          artist: Masato Ishizaki
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/R-Type.sid&subtune=12
+  - title: Ocean Loader 4
+    composer: Jonathan Dunn
+    year: 1988
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Ocean_Loader_4.sid&subtune=1
+  - title: Ocean Loader 5
+    composer: Jonathan Dunn
+    year: 1988
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Ocean_Loader_5.sid&subtune=1
+  - title: Rambo 3
+    composer: Jonathan Dunn
+    year: 1988
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Rambo_3.sid&subtune=1
+  - title: Tusker
+    composer: Matt Gray
+    year: 1989
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Tusker.sid&subtune=1
+      - track: 2
+        original:
+          title: Sequence 8 (from the movie Zombi 2)
+          artist: [Fabio Frizzi, Giorgio Tucci]
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Tusker.sid&subtune=2
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Tusker.sid&subtune=3
+  - title: Lessons in Love
+    composer: Reyn Ouwehand
+    year: 1989
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/O/Ouwehand_Reyn/Lessons_in_Love.sid&subtune=1
+  - title: Turbo Outrun
+    composer: Jeroen Tel
+    year: 1989
+    subtunes:
+      - track: 1
+        title: Intro
+        original:
+          title: Magical Sound Shower
+          artist: Hiroshi Miyauchi
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/Turbo_Outrun.sid&subtune=1
+  - title: Myth
+    composer: Jeoren Tel
+    year: 1989
+    subtunes:
+      - track: 1
+        deepsid: http://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/Myth.sid&subtune=1
+  - title: Power Drift
+    composer: Dave Lowe
+    year: 1989
+    subtunes:
+      - track: 1
+        original:
+          title: Poker Face
+          artist: Hiroshi Miyauchi
+        deepsid: http://deepsid.chordian.net/?file=/MUSICIANS/L/Lowe_Dave/Power_Drift.sid&subtune=1
+      - track: 2
+        original:
+          title: Diversity
+          artist: Hiroshi Miyauchi
+        deepsid: http://deepsid.chordian.net/?file=/MUSICIANS/L/Lowe_Dave/Power_Drift.sid&subtune=2
+      - track: 3
+        original:
+          title: Side Street
+          artist: Hiroshi Miyauchi
+        deepsid: http://deepsid.chordian.net/?file=/MUSICIANS/L/Lowe_Dave/Power_Drift.sid&subtune=3
+  - title: B4 Being
+    composer: Klaus Grongaard (Link)
+    year: 1989
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Link/B4_Being.sid&subtune=1
+  - title: X-Out
+    composer: Michael Hendriks
+    year: 1989
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/FAME/Hendriks_Michael/X-Out.sid&subtune=1
+  - title: "Test Drive 2: The Duel"
+    composer: Kristjan Hatlelid
+    year: 1989
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hatlelid_Kris/Test_Drive_2_The_Duel.sid&subtune=1
+  - title: Spijkerhoek 3
+    composer: Falco Paul
+    year: 1989
+    subtunes:
+      - track: 1
+        original:
+          title: Theme Spijkerhoek
+          artist: The Hans van Eijck Project
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/0-9/20CC/Paul_Falco/Spijkerhoek_3.sid
+  - title: Vendetta
+    composer: Matt Gray
+    year: 1990
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Matt/Vendetta.sid&subtune=1
+        original:
+          title: Tokyo Kid
+          artist: Jean-Michel Jarre
+          media:
+            - youtube: https://www.youtube.com/watch?v=avcClHlecLo
+  - title: Back to the Future II
+    composer: David Whittaker
+    year: 1990
+    subtunes:
+      - track: 1
+        original:
+          title: Main Title (from the movie Back to the Future)
+          artist: Alan Silvestri
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/W/Whittaker_David/Back_to_the_Future_II.sid&subtune=1
+  - title: Creatures
+    composer: Steve Rowlands
+    year: 1990
+    subtunes:
+      - track: 1
+        title: Disk Intro
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/R/Rowlands_Steve/Creatures.sid&subtune=1
+      - track: 2
+        title: Theme
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/R/Rowlands_Steve/Creatures.sid&subtune=2
+      - track: 3
+        title: Get Ready
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/R/Rowlands_Steve/Creatures.sid&subtune=2
+      - track: 5
+        title: Level Complete
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/R/Rowlands_Steve/Creatures.sid&subtune=5
+      - track: 9
+        title: Level 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/R/Rowlands_Steve/Creatures.sid&subtune=9
+      - track: 15
+        title: Torture Screen 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/R/Rowlands_Steve/Creatures.sid&subtune=15
+      - track: 16
+        title: Torture Screen 2
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/R/Rowlands_Steve/Creatures.sid&subtune=16
+  - title: Golden Axe
+    composer: Jeroen Tel
+    year: 1990
+    subtunes:
+      - track: 1
+        original:
+          title: Wilderness
+          artist: Yo Takada
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/Golden_Axe.sid&subtune=1
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/Golden_Axe.sid&subtune=3
+  - title: JT 42
+    composer: Jeroen Tel
+    year: 1990
+    subtunes:
+      - track: 1
+        original:
+          title: Running in the Family
+          artist: Level 42
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/JT_42.sid
+  - title: Myth Loader
+    composer: Jeroen Tel
+    year: 1990
+    subtunes:
+      - track: 1
+        youtube: https://www.youtube.com/watch?v=s46Q3Qb3_uc
+  - title: Turrican
+    composer: [Ramiro Vaca, Chris Hulsbeck, Michael Hendriks]
+    year: 1990
+    subtunes:
+      - track: 2
+        original:
+          title: Escape (from the movie Transformers)
+          artist: Vince DiCola
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/V/Vaca_Ramiro/Turrican.sid&subtune=2
+      - track: 4
+        original:
+          title: Shadowfire, Tune #2
+          artist: Fred Gray
+        composer: Michael Hendriks
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/V/Vaca_Ramiro/Turrican.sid&subtune=4
+      - track: 5
+        title: Turrican, Level 1-1
+        composer: Chris Hulsbeck
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/V/Vaca_Ramiro/Turrican.sid&subtune=5
+  - title: Shadow of the Beast
+    composer: Fredrik Segerfalk
+    year: 1990
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/M/Moppe/Shadow_of_the_Beast.sid&subtune=1
+        original:
+          title: Title and The Plains (tune 2)
+          artist: David Whittaker
+          media:
+            - youtube: https://www.youtube.com/watch?v=NLhWs6OUSqg
+      - track: 2
+        title: Title and The Plains (tune 3)
+        artist: David Whittaker
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/M/Moppe/Shadow_of_the_Beast.sid&subtune=2
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/M/Moppe/Shadow_of_the_Beast.sid&subtune=3
+        original:
+          title: Underground (tune 2)
+          artist: David Whittaker
+          media:
+            - youtube: https://www.youtube.com/watch?v=BLn6PZZkU9w
+      - track: 4
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/M/Moppe/Shadow_of_the_Beast.sid&subtune=4
+        original:
+          title: The Castle (tune 2)
+          artist: David Whittaker
+          media:
+            - youtube: https://www.youtube.com/watch?v=eLCVOkIZr-Q
+      - track: 5
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/M/Moppe/Shadow_of_the_Beast.sid&subtune=5
+        original:
+          title: Water (tune 2)
+          artist: David Whittaker
+          media:
+            - youtube: https://www.youtube.com/watch?v=K4m6V_y2IPo
+      - track: 6
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/M/Moppe/Shadow_of_the_Beast.sid&subtune=6
+        original:
+          title: Game Over
+          artist: David Whittaker
+          media:
+            - youtube: https://www.youtube.com/watch?v=-LlXYei_H0I
+  - title: Lotus Esprit Turbo Challenge
+    composer: G-L
+    year: 1990
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/GAMES/G-L/Lotus_Esprit_Turbo_Challenge.sid&subtune=1
+        original:
+          title: Title
+          artist: [Shaun Souther, Andrew Morris]
+          media:
+            - youtube: https://www.youtube.com/watch?v=xtamV6wnQbs
+  - title: Midnight Resistance
+    composer: Keith Tinman
+    artist: [Azusa Hara, Tatsuya Kiuchi, Hitomi Komatsu, Hiroaki Yoshida]
+    year: 1990
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tinman_Keith/Midnight_Resistance.sid&subtune=1
+      - track: 2
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tinman_Keith/Midnight_Resistance.sid&subtune=2
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tinman_Keith/Midnight_Resistance.sid&subtune=3
+      - track: 4
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tinman_Keith/Midnight_Resistance.sid&subtune=4
+      - track: 5
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tinman_Keith/Midnight_Resistance.sid&subtune=5
+      - track: 6
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tinman_Keith/Midnight_Resistance.sid&subtune=6
+      - track: 7
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tinman_Keith/Midnight_Resistance.sid&subtune=7
+      - track: 8
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tinman_Keith/Midnight_Resistance.sid&subtune=8
+      - track: 9
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tinman_Keith/Midnight_Resistance.sid&subtune=9
+        remixes:
+          - title: Midnight Resistance (remastered)
+            composer: Tamas Kalman
+            year: 2019
+            media:
+              - soundcloud: https://soundcloud.com/dh2k/midnight-resistance-remastered
+  - title: Back to the Future III
+    composer: Charles Deenen
+    year: 1991
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Deenen_Charles/Back_to_the_Future_III.sid&subtune=1
+        original:
+          title: Main Title (from the movie Back to the Future Part III)
+          artist: Alan Silvestri
+      - track: 2
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Deenen_Charles/Back_to_the_Future_III.sid&subtune=2
+        original:
+          title: Ghost Riders in the Sky
+          artist: Stan Jones
+      - track: 9
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Deenen_Charles/Back_to_the_Future_III.sid&subtune=9
+  - title: Last Ninja 3
+    composer: Reyn Ouwehand
+    year: 1991
+    subtunes:
+      - track: 3
+        title: Intro Tune
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/O/Ouwehand_Reyn/Last_Ninja_3.sid&subtune=3
+      - track: 4
+        title: Mountains
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/O/Ouwehand_Reyn/Last_Ninja_3.sid&subtune=4
+      - track: 5
+        title: Wind Temple
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/O/Ouwehand_Reyn/Last_Ninja_3.sid&subtune=5
+      - track: 6
+        title: Water Temple
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/O/Ouwehand_Reyn/Last_Ninja_3.sid&subtune=6
+      - track: 7
+        title: Fire Temple
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/O/Ouwehand_Reyn/Last_Ninja_3.sid&subtune=7
+      - track: 8
+        title: Void Temple
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/O/Ouwehand_Reyn/Last_Ninja_3.sid&subtune=8
+      - track: 9
+        title: Game Over
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/O/Ouwehand_Reyn/Last_Ninja_3.sid&subtune=9
+  - title: Turrican 2 - The Final Fight
+    composer: Markus Siebold  
+    year: 1991
+    subtunes:
+      - track: 2
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/S/Siebold_Markus/Turrican_2-The_Final_Fight.sid&subtune=2
+  - title: Total Recall
+    composer: Jonathan Dunn
+    year: 1991
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Total_Recall.sid&subtune=1
+        original:
+            title: Ivory Tower (from the movie The Never Ending Story)
+            artist: Giorgio Moroder
+      - track: 5
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunn_Jonathan/Total_Recall.sid&subtune=5
+  - title: Robocop 3
+    composer: Jeroen Tel
+    year: 1992
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/RoboCop_3.sid&subtune=1
+  - title: Vortex
+    composer: Markus Klein (LMan)
+    year: 2015
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/LMan/Vortex.sid&subtune=1
+        youtube: https://www.youtube.com/watch?v=upHnKwV-Ezs
+  - title: Onward Ride (C64 Remix)
+    composer: Antti Hannula (Flex)
+    year: 2016
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/Exotic%20SID%20Tunes%20Collection/Stereo%202SID/Hannula_Antti/Onward_Ride_C64_remix_2SID.sid&subtune=1
+        original:
+          title: Onward Ride (from PC demo "Dope" by Complex)
+          artist: Jukka Kaartinen (Jugi from Complex)
+          year: 1995
+          media:
+            - youtube: https://www.youtube.com/watch?v=EcVN7-AxLQA
+  - title: Space Debris
+    composer: Antti Hannula (Flex)
+    year: 2017
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hannula_Antti/Space_Debris.sid&subtune=1
+        original:
+          title: Space Debris (from the Amiga MOD module)
+          artist: Markus Kaarlonen (Captain)
+          year: 1991
+          media:
+            - youtube: https://www.youtube.com/watch?v=thnXzUFJnfQ
+  - title: Tristesse Again
+    composer: Antti Hannula (Flex)
+    year: 2017
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/H/Hannula_Antti/Tristesse_Again.sid&subtune=1
+        youtube: https://www.youtube.com/watch?v=vKPAlnN_R5Q
+        original:
+          title: Tristesse
+          artist: Thomas Mogensen (DRAX)
+          year: 1994
+          media:
+            - youtube: https://www.youtube.com/watch?v=cwFUYrTE_sY
+  - title: $11 Heaven
+    composer: [Jeroen Tel, Markus Klein (LMan)]
+    year: 2018
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/T/Tel_Jeroen/11_Heaven.sid
+        youtube: https://www.youtube.com/watch?v=QJmgjsBkoqg
+  - title: Archon Reimagined
+    composer: Markus Jentsch (c0zmo)
+    year: 2018
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/C/C0zmo/Archon_Reimagined.sid&subtune=1
+        original:
+          title: Archon
+          artist: Tommy V. Dunbar
+          year: 1983
+          deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunbar_Tommy/Archon.sid&subtune=1
