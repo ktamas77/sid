@@ -1042,3 +1042,13 @@ sid:
           artist: Tommy V. Dunbar
           year: 1983
           deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunbar_Tommy/Archon.sid&subtune=1
+  - title: Arkanoid Remake
+    composer: Markus Jentsch (c0zmo)
+    year: 2018
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/C/C0zmo/Arkanoid_Remake.sid
+        original:
+          title: Cobra
+          artist: Martin Galway
+          deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Arkanoid.sid&subtune=1
