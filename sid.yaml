@@ -1,0 +1,61 @@
+sid:
+  - title: Forbidden Forest
+    composer: Paul Norman
+    year: 1983
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/N/Norman_Paul/Forbidden_Forest.sid&subtune=1
+      - track: 3
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/N/Norman_Paul/Forbidden_Forest.sid&subtune=3
+  - title: Archon
+    composer: Tommy V. Dunbar
+    year: 1983
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunbar_Tommy/Archon.sid
+  - title: M.U.L.E.
+    composer: Roy Glover
+    year: 1983
+    subtunes:
+      - track: 1
+        deepsid: https://deepsid.chordian.net/?file=/GAMES/M-R/M_U_L_E.sid&subtune=1
+  - title: Synth Sample
+    composer: Georg Feil
+    year: 1984
+    subtunes:
+      - track: 1
+        title: Stationary Ark
+        artist: Johns Mills-Cockell
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=1
+      - track: 2
+        title: Saturdays in Silesia
+        artist: Rational Youth
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=2
+      - track: 3
+        title: Spiral
+        artist: Vangelis
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=3
+      - track: 4
+        title: Tubullar Bells, Part 1
+        artist: Mike Oldfield
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=4
+      - track: 5
+        title: Magic Shadows, closing theme
+        artist: Harry Forbes
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=5
+      - track: 6
+        title: Funeral Musci for Queen Mary
+        artist: Henry Purcell
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=6
+      - track: 7
+        title: Oxygene 2
+        artist: Jean-Michel Jarre
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=7
+      - track: 8
+        title: Canon in D major
+        artist: Johann Pachelbel
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=8
+      - track: 9
+        title: Enolay Gay
+        artist: GFeorge Andrew McCluskey
+        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=9
