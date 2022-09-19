@@ -5,20 +5,26 @@ sid:
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/N/Norman_Paul/Forbidden_Forest.sid&subtune=1
-      - track: 3
-        deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/N/Norman_Paul/Forbidden_Forest.sid&subtune=3
+        mp3: forbidden_forest_01.mp3
+    screenshots:
+      - forbidden_forst.png
   - title: Archon
     composer: Tommy V. Dunbar
     year: 1983
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Dunbar_Tommy/Archon.sid&subtune=1
+        mp3: archon_01.mp3
+    screenshots:
+      - archon.png
   - title: M.U.L.E.
     composer: Roy Glover
     year: 1983
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/GAMES/M-R/M_U_L_E.sid&subtune=1
+    screenshots:
+      - mule.png
   - title: Synth Sample
     composer: Georg Feil
     year: 1984
@@ -33,46 +39,57 @@ sid:
               - https://www.youtube.com/watch?v=zVONJYw9gvU
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=1
         youtube: https://www.youtube.com/watch?v=_ZKJBxKqxbg
+        mp3: synth_sample_01.mp3
       - track: 2
         original:
           title: Saturdays in Silesia
           artist: Rational Youth
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=2
+        mp3: synth_sample_02.mp3
       - track: 3
         original:
           title: Spiral
           artist: Vangelis
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=3
+        mp3: synth_sample_03.mp3
       - track: 4
         original:
           title: Tubullar Bells, Part 1
           artist: Mike Oldfield
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=4
+        mp3: synth_sample_04.mp3
       - track: 5
         original:
           title: Magic Shadows, closing theme
           artist: Harry Forbes
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=5
+        mp3: synth_sample_05.mp3
       - track: 6
         original:
           title: Funeral Music for Queen Mary
           artist: Henry Purcell
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=6
+        mp3: synth_sample_06.mp3
       - track: 7
         original:
           title: Oxygene 2
           artist: Jean-Michel Jarre
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=7
+        mp3: synth_sample_07.mp3
       - track: 8
         original:
           title: Canon in D major
           artist: Johann Pachelbel
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=8
+        mp3: synth_sample_08.mp3
       - track: 9
         original:
           title: Enolay Gay
           artist: George Andrew McCluskey
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/F/Feil_Georg/Synth_Sample.sid&subtune=9
+        mp3: synth_sample_09.mp3
+    screenshots:
+      - synth_sample.png
   - title: L.O.C.O.
     composer: Ben Daglish
     year: 1984
