@@ -99,18 +99,21 @@ sid:
           title: Equinoxe Part 5
           artist: Jean-Michel Jarre
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/L_O_C_O.sid&subtune=1
+        mp3: loco_01.mp3
   - title: Boulder Dash
     composer: Peter Liepa
     year: 1985
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/GAMES/A-F/Boulder_Dash.sid&subtune=1
+        mp3: boulder_dash_01.mp3
   - title: Enigma Force
     composer: Fred Gray
     year: 1985
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Fred/Enigma_Force.sid&subtune=1
+        mp3: enigma_force_01.mp3
   - title: Frankie Goes to Hollywood
     composer: Fred Gray
     year: 1985
@@ -119,14 +122,17 @@ sid:
         original:
           artist: Frankie Goes to Hollywood
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Fred/Frankie_Goes_to_Hollywood.sid&subtune=1
+        mp3: frankie_goes_to_hollywood_01.mp3
   - title: ShadowFire
     composer: Fred Gray
     year: 1985
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Fred/ShadowFire.sid&subtune=1
+        mp3: shadowfire_01.mp3
       - track: 2
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Fred/ShadowFire.sid&subtune=2
+        mp3: shadowfire_02.mp3
   - title: Transformers
     composer: Fred Gray
     year: 1985
@@ -135,24 +141,28 @@ sid:
         original:
           artist: Ford Kinder & Anne Bryant
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Gray_Fred/Transformers.sid&subtune=1
+        mp3: transformers.mp3
   - title: Final Synth Sample 1
     composer: Rob Hubbard
     year: 1985
     subtunes:
       - track: 5
         youtube: https://www.youtube.com/watch?v=ZQ_uGx7g-As&t=504s
+        mp3: final_synth_sample_05.mp3
   - title: Ocean Loader 1
     composer: Martin Galway
     year: 1985
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Ocean_Loader_1.sid&subtune=1
+        mp3: ocean_loader_01.mp3
   - title: Ocean Loader 2
     composer: Martin Galway
     year: 1985
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Ocean_Loader_2.sid&subtune=1
+        mp3: ocean_loader_02.mp3
   - title: Yie Ar Kung Fu
     composer: Martin Galway
     year: 1985
@@ -162,30 +172,39 @@ sid:
           title: Magnetic Fields, part 4
           artist: Jean-Michel Jarre
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Yie_Ar_Kung_Fu.sid&subtune=19
+        mp3: yie_ar_kung_fu_01.mp3
+        length: 9:01
+        loop: No
   - title: Rambo First Blood Part II
     composer: Martin Galway
     year: 1985
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/G/Galway_Martin/Rambo_First_Blood_Part_II.sid&subtune=1
+        mp3: rambo_first_blood_part_2_01.mp3
   - title: Super Huey
     composer: Paul Norman
     year: 1985
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/N/Norman_Paul/Super_Huey.sid&subtune=1
+        mp3: super_huey_01.mp3
   - title: Master of the Lamps
     composer: Russell Lieblich
     year: 1985
     subtunes:
       - track: 1
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Lieblich_Russell/Master_of_the_Lamps.sid&subtune=1
+        mp3: master_of_lamps_01.mp3
       - track: 2
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Lieblich_Russell/Master_of_the_Lamps.sid&subtune=2
+        mp3: master_of_lamps_02.mp3
       - track: 3
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Lieblich_Russell/Master_of_the_Lamps.sid&subtune=3
+        mp3: master_of_lamps_03.mp3
       - track: 6
         deepsid: https://deepsid.chordian.net/?file=/MUSICIANS/L/Lieblich_Russell/Master_of_the_Lamps.sid&subtune=6
+        mp3: master_of_lamps_06.mp3
   - title: Commando
     composer: Rob Hubbard
     year: 1985
